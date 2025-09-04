@@ -245,9 +245,6 @@ Contributions are welcome! Here's how you can help:
 - Update tests for new features
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 

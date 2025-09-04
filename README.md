@@ -15,10 +15,8 @@ A modern, feature-rich Customer Relationship Management (CRM) system built with 
 - [🚀 Quick Start](#-quick-start)
 - [📖 Usage](#-usage)
 - [🔒 Authentication](#-authentication)
-- [🖼️ Screenshots](#️-screenshots)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 - [👤 Author](#-author)
 
 ## 🌟 Features
@@ -200,16 +198,7 @@ The application includes a robust authentication system:
 - Protected routes requiring authentication
 - Password validation and security measures
 
-## 🖼️ Screenshots
 
-### Dashboard
-The main dashboard displays all customer records with easy navigation and management options.
-
-### Customer Details
-Detailed view of individual customer information with edit and delete options.
-
-### User Registration
-Clean and user-friendly registration form with validation.
 
 ## 🛠️ Technologies Used
 
